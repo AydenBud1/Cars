@@ -13,3 +13,13 @@ li {
     padding: 8px;
     background-color: #dddddd;
   }
+#Title {
+  
+  background-color: #e11936;
+}
+#Ethics {
+  text-align: center;
+}
+#EthicsContent{
+  float: none;
+}
