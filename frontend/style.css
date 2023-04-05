@@ -19,7 +19,14 @@ li {
 }
 #Ethics {
   text-align: center;
+  size: 10%;
 }
 #EthicsContent{
   float: none;
+}
+#specialDeals {
+  float: right;
+  }
+#carImage {
+  float:left
 }
