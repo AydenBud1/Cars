@@ -37,3 +37,6 @@ li {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   }
+  #store {
+    background-color: #e11936;
+  }
