@@ -11,7 +11,8 @@ li {
   a {
     display: block;
     padding: 8px;
-    background-color: #dddddd;
+    background-color: #811818;
+    color: white;
   }
 #Title {
   
@@ -39,4 +40,8 @@ li {
   }
   #store {
     background-color: #e11936;
+  }
+  h1 {
+    text-align: center;
+    transform: translateX(-70px);
   }
