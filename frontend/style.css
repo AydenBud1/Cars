@@ -11,7 +11,7 @@ li {
   a {
     display: block;
     padding: 8px;
-    background-color: #811818;
+    background-color: #bbbbbb;
     color: white;
   }
 #Title {
@@ -44,4 +44,10 @@ li {
   h1 {
     text-align: center;
     transform: translateX(-70px);
+  }
+  #divider {
+    background-color: green;
+  }
+  #carImage {
+    background-color: none;
   }
