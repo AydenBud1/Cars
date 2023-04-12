@@ -11,7 +11,7 @@ li {
   a {
     display: block;
     padding: 8px;
-    background-color: #bbbbbb;
+    background-color: #50C878;
     color: white;
   }
 #Title {
@@ -29,7 +29,8 @@ li {
   float: right;
   }
 #carImage {
-  float:left
+  float:center;
+  background-color: none;
 }
 #accGrid {
   display: grid;
@@ -46,8 +47,6 @@ li {
     transform: translateX(-70px);
   }
   #divider {
-    background-color: green;
+    background-color: rgb(0, 0, 0);
   }
-  #carImage {
-    background-color: none;
-  }
+ 
